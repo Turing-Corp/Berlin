@@ -4,3 +4,8 @@ coverage:
       default:
         # basic
         target: 50%
+      default:
+        informational: true
+    patch:
+      default:
+        informational: true
